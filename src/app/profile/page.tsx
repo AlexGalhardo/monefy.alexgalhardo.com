@@ -6,7 +6,7 @@ import Link from "next/link";
 
 export const metadata: Metadata = {
     title: "Next.js Profile",
-    description: "This is Next.js Profile page for TailAdmin - Next.js Tailwind CSS Admin Dashboard Template",
+    description: "This is Next.js Profile page for Monefy - Next.js Tailwind CSS Admin Dashboard Template",
 };
 
 const Profile = () => {

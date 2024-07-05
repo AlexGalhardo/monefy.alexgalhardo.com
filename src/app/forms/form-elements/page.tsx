@@ -5,7 +5,7 @@ import DefaultLayout from "@/components/Layouts/DefaultLayout";
 
 export const metadata: Metadata = {
     title: "Next.js Form Elements",
-    description: "This is Next.js Form Elements page for TailAdmin - Next.js Tailwind CSS Admin Dashboard Template",
+    description: "This is Next.js Form Elements page for Monefy - Next.js Tailwind CSS Admin Dashboard Template",
 };
 
 const FormElementsPage = () => {

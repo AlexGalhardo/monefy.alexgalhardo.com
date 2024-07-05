@@ -3,8 +3,8 @@ import { Metadata } from "next";
 import DefaultLayout from "@/components/Layouts/DefaultLayout";
 
 export const metadata: Metadata = {
-    title: "Money Manager",
-    description: "Money manager dashboard",
+    title: "Monefy",
+    description: "Monefy Dashboard",
 };
 
 export default function Home() {

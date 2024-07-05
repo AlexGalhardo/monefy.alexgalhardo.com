@@ -6,7 +6,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
     title: "Sign Up",
-    description: "Sign Up money manager",
+    description: "Sign Up Monefy",
 };
 
 const SignUp: React.FC = () => {

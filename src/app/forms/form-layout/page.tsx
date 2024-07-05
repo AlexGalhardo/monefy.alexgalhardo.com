@@ -7,7 +7,7 @@ import Link from "next/link";
 
 export const metadata: Metadata = {
     title: "Next.js Form Layout",
-    description: "This is Next.js Form Layout page for TailAdmin - Next.js Tailwind CSS Admin Dashboard Template",
+    description: "This is Next.js Form Layout page for Monefy - Next.js Tailwind CSS Admin Dashboard Template",
 };
 
 const FormLayout = () => {

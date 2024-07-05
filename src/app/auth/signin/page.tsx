@@ -4,7 +4,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
     title: "Login",
-    description: "Login Money Manager",
+    description: "Login Monefy",
 };
 
 export default function Signin() {
