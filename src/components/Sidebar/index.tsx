@@ -40,7 +40,7 @@ const menuGroups = [
                 label: "Add Expense",
                 route: "/add-expense",
             },
-			{
+            {
                 icon: (
                     <svg
                         className="fill-current"
@@ -70,7 +70,6 @@ const menuGroups = [
                 label: "Statistics",
                 route: "/statistics",
             },
-
         ],
     },
 ];

@@ -29,7 +29,7 @@ const brandData: ExpensesType[] = [
         description: "expense five",
         amount: 3590,
         category: "SERVICES",
-        created_at: "2024-10-09"
+        created_at: "2024-10-09",
     },
 ];
 
@@ -44,13 +44,13 @@ const TableThree = () => {
                                 <td className="border-b border-[#eee] px-4 py-5 pl-9 dark:border-strokedark xl:pl-11">
                                     <h5 className="font-medium text-black dark:text-white">{brand.category}</h5>
                                 </td>
-								<td className="border-b border-[#eee] px-4 py-5 dark:border-strokedark">
+                                <td className="border-b border-[#eee] px-4 py-5 dark:border-strokedark">
                                     <p className="text-black dark:text-white">{brand.description}</p>
                                 </td>
                                 <td className="border-b border-[#eee] px-4 py-5 dark:border-strokedark">
                                     <p className="text-black dark:text-white">R$ {brand.amount}</p>
                                 </td>
-								<td className="border-b border-[#eee] px-4 py-5 dark:border-strokedark">
+                                <td className="border-b border-[#eee] px-4 py-5 dark:border-strokedark">
                                     <p className="text-black dark:text-white">{brand.created_at}</p>
                                 </td>
                                 <td className="border-b border-[#eee] px-4 py-5 dark:border-strokedark">

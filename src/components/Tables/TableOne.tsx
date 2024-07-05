@@ -29,7 +29,7 @@ const brandData: ExpensesType[] = [
         description: "expense five",
         amount: 3.5,
         category: "SERVICES",
-        created_at: "2024-10-09"
+        created_at: "2024-10-09",
     },
 ];
 
@@ -46,7 +46,7 @@ const TableOne = () => {
                         }`}
                         key={key}
                     >
-						<div className="flex items-center justify-center p-2.5 xl:p-5">
+                        <div className="flex items-center justify-center p-2.5 xl:p-5">
                             <p className="text-meta-3">{brand.category}</p>
                         </div>
 
