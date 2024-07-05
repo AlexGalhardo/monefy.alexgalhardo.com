@@ -87,8 +87,8 @@ const Header = (props: { sidebarOpen: string | boolean | undefined; setSidebarOp
 
                             <input
                                 type="text"
-                                placeholder="Type to search..."
-                                className="w-full bg-transparent pl-9 pr-4 font-medium focus:outline-none xl:w-125"
+                                placeholder="Search expense description..."
+                                className="w-full bg-transparent pl-9 pr-4 font-medium focus:outline-none"
                             />
                         </div>
                     </form>
